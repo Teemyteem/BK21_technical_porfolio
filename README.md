@@ -1,4 +1,4 @@
-# ※ BK21_technical_porfolio
+# ※ BK21_technical_portfolio
     
 ## ※ Introduction  
 Name : 야오와말 (Yaowamal Luetrakulset)    
