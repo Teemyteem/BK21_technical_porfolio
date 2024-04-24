@@ -13,7 +13,8 @@
   - Apartment prices are one of the most important factors in buyers' decision-making
   
 - Data: The program used Selenium as a web crawling tool to collect data from www.hipflat.co.th
-<img width="272" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/9e70f347-5a0d-48b2-a57e-bf1da4cb7995">
+                          <img width="338" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/49a8c6ea-76f0-4dd1-ab8f-0df4f731dd06">
+
 
 - Model: Linear Regression, Regression Tree, Random Forest Regression, Gradient Boosting Regression  
   
