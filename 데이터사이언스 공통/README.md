@@ -1,4 +1,4 @@
-# 1. 데이터마이닝 (Stroke)  
+## 1. 데이터마이닝 (Stroke)  
 - Objective: To predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status.  
 - Data:   
 	- 11 attributes, 1 stroke class, 5110 records  
@@ -17,7 +17,7 @@
 	- K-NN: accuracy = 0.928  
 - Link: [PPT slide](https://github.com/Teemyteem/BK21_technical_porfolio/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/2023-1%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%88%EC%9D%B4%EB%8B%9D/22512087_Stroke%20(Final).pdf)
 
-# 2. 분산 및 클라우드 컴퓨팅 (Airbnb)	
+## 2. 분산 및 클라우드 컴퓨팅 (Airbnb)	
 - Objective: To develop and analyze the effect of refining data according to the level of error rates	
 - Background:	
 	- There is a limitation of the paper "Analysis of the effect of refining data according to the level of error rates"	
