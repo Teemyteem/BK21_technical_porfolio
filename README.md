@@ -14,6 +14,6 @@ Email : yaowamal.lue@gmail.com
 | No. |    심사항목   | 	내용     |     Link    |
 | --- | ------------- | ------------ | ----------- |
 |  1  |	데이터사이언스 공통 |	Python, SQL, R, Java, Scala, Go 등 데이터 처리 언어 활용 능력 |	[link]() |
-|  2  | 데이터 수집 및 정제  |	Web crawler, Scraping, Open API 등을 활용한 데이터 수집 능력 여부 | [link]() |
+|  2  | 데이터 수집 및 정제  |	Web crawler, Scraping, Open API 등을 활용한 데이터 수집 능력 여부 | [link](https://github.com/Teemyteem/BK21_technical_porfolio/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%EB%B0%8F%20%EC%A0%95%EC%A0%9C) |
 |  3  | 데이터 활용 및 분석 |	데이터사이언스 관련 공모전 참여를 통한 공개 데이터의 활용 및 분석 능력 | [link]() |
 
