@@ -14,7 +14,7 @@
 	- Support Vector Machine: accuracy = 0.7827  
 	- XGBoost: accuracy = 0.6679  
 	- Random Forest: accuracy = 0.7827  
-- Link: [PPT slide](https://github.com/Teemyteem/BK21_technical_porfolio/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/2022-2%20%EC%A0%84%EC%9E%90%EC%A0%9C%EC%A1%B0%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/%EC%9A%A9%ED%95%B4%ED%83%B1%ED%81%AC%20%EC%A0%9C%EC%A1%B0%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%92%88%EC%A7%88%20%EC%9D%B4%EC%83%81%20%ED%83%90%EC%A7%80%20%EB%B0%8F.pdf)  
+- Link: [PPT slide](https://github.com/Teemyteem/BK21_technical_porfolio/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EB%B0%8F%20%EB%B6%84%EC%84%9D/2022-2%20%EC%A0%84%EC%9E%90%EC%A0%9C%EC%A1%B0%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/%EC%9A%A9%ED%95%B4%ED%83%B1%ED%81%AC%20%EC%A0%9C%EC%A1%B0%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%92%88%EC%A7%88%20%EC%9D%B4%EC%83%81%20%ED%83%90%EC%A7%80%20%EB%B0%8F.pdf)  
   
 ## 2. Stock Price Prediction by Using Long Short-Term Memory Model With Multiple Look Back Periods  
 - Objective: Proposed a developed closing price prediction model by using three stocks from the Thai SET50 index (CPALL, AOT, LH).  
