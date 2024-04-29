@@ -7,7 +7,7 @@
 	- Stroke class: 0 = No stroke, 1 = Stroke  
   <img width="684" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/fc64df28-1215-41c8-9265-bc9bc7798dc1">  
 - Preprocessing:
-  - Data visualization: Histrogram, box plot, scatter plot, line plot
+  - Data visualization: histogram, box plot, kde plot, bar plot, and scatter plot.
 - Model: Decision Tree, Color Decision Tree, Logistic Regression, Random Forest, Gradient Boosting, Naive Bayes, K-NN  
 - Result:   
 	- Decision tree: accuracy = 0.917  
