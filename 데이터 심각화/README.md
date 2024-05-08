@@ -5,7 +5,7 @@
 	- Numerical variable (4): id, age, avg_glucose_level, bmi  
 	- Categorical variable (7): gender, hypertension, heart_disease, ever_married, work_type, Residence_type, smoking_status  
 	- Stroke class: 0 = No stroke, 1 = Stroke
- 	- [stroke_data file](https://github.com/Teemyteem/BK21_technical_porfolio/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%AC%EA%B0%81%ED%99%94/stroke_data.csv) 	
+ 	- [stroke_data.csv](https://github.com/Teemyteem/BK21_technical_porfolio/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%AC%EA%B0%81%ED%99%94/stroke_data.csv) 	
   <img width="684" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/fc64df28-1215-41c8-9265-bc9bc7798dc1">  
 - ## Preprocessing:
   - Data visualization: histogram, box plot, kde plot, bar plot, and scatter plot.	
