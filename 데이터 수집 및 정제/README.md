@@ -5,8 +5,10 @@
   - In Bangkok, condominiums are becoming the first home for many people who prefer a convenient lifestyle  
   - Apartment prices are one of the most important factors in buyers' decision-making
   
-- Data: The program used Selenium as a web crawling tool to collect data from www.hipflat.co.th
-<img width="565" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/5d120bae-8a3d-4591-9922-f9bbedfc20d3">  
+- Data: 
+  - The program used Selenium as a web crawling tool to collect data from www.hipflat.co.th
+  - Additional features is shown as in red box below.
+<img width="565" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/5d120bae-8a3d-4591-9922-f9bbedfc20d3"> 
 
 - Model: Linear Regression, Regression Tree, Random Forest Regression, Gradient Boosting Regression  
   
