@@ -16,25 +16,25 @@
   - Convert categorical variable to numerical variable (column: 'ever_married', 'Residence_type', 'gender', 'work_type', 'smoking_status')	
 - EDA (Exploratory Data Analysis)	
   ## Data visualization: histogram, box plot, kde plot, bar plot, and scatter plot.		
-  - Histogram: shows the frequency of each features	
+  - Histogram: shows the frequency of each features		
     (column: gender, age, hypertension, heart_disease, ever_married, work_type, Residence_type, avg_glucose_level, bmi, smoking_status, stroke)	
     <img width="584" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/0e295bcb-d67d-4373-9863-ed9f1a5c5b9d">
     <img width="584" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/ea6d3db0-f50f-4c5c-ba31-937fa8988261">
     
-  - Box plot: shows min, Q1, median, Q3, max, and outlier of numerical variables	
+  - Box plot: shows min, Q1, median, Q3, max, and outlier of numerical variables		
     (column: age, avg_glucose_level, bmi)	
     <img width="572" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/76345ab4-53b8-4c37-83e8-08f7cdd28517">
 
-  - kde plot: show the distribution of variable using a smooth curve	
+  - kde plot: show the distribution of variable using a smooth curve		
     (column: age, avg_glucose_level, bmi)
     <img width="626" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/5b320a53-9b63-4075-8277-1cf7cbb7e65b">
 
-  - Bar plot: show the frequency or count of each category in the categorical variable
+  - Bar plot: show the frequency or count of each category in the categorical variable	
     (column: gender, age, hypertension, ever_married, work_type, Residence_type, smoking_status)
     <img width="506" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/e7e00c0a-e019-40cb-80a5-3881140df9dd">
     <img width="695" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/582bce4c-656a-40d5-8c77-38550211fe1a">
 
-  - Scatter plot: show relationship between two numerical variables
+  - Scatter plot: show relationship between two numerical variables	
     (column: age, avg_glucose_level, bmi)
     <img width="699" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/b737b2ba-09a8-47f7-a8d6-34e50c065b82">
 
