@@ -18,11 +18,11 @@
   <img width="565" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/5d120bae-8a3d-4591-9922-f9bbedfc20d3">
 
 - Data preprocessing:
- - Remove row in column "title" if it has null value 
- - Remove row in column "Price_per_sqm" if it has 0 value  
- - Replace null with 0 value 
- - Convert object type to numerical type in column "Year_built","No_floor","Dist_bts","Dist_mrt"
- - Do correlation heatmap 
+  - Remove row in column "title" if it has null value 
+  - Remove row in column "Price_per_sqm" if it has 0 value  
+  - Replace null with 0 value 
+  - Convert object type to numerical type in column "Year_built","No_floor","Dist_bts","Dist_mrt"
+  - Do correlation heatmap 
 
 - Model:
   - Training: Testing = 80:20 
