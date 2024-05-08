@@ -1,4 +1,4 @@
- ## Predicting condominium prices in Bangkok  
+ # Predicting condominium prices in Bangkok  
   
 - Objective: 
   - To predict the sales price per square meter of a condominium in Bangkok.    
@@ -6,7 +6,7 @@
   - In Bangkok, condominiums are becoming the first home for many people who prefer a convenient lifestyle  
   - Apartment prices are one of the most important factors in buyers' decision-making
   
-- Data: 
+- ## Data: 
   - The program used Selenium as a web crawling tool to collect data from www.hipflat.co.th
   - Additional features is shown as in red box below.
   - Y = price per square
