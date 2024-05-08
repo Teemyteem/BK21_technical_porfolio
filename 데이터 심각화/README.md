@@ -1,4 +1,4 @@
-## Stroke
+# Stroke
 - Objective: To predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status.  
 - Data:   
 	- 11 attributes, 1 stroke class, 5110 records  
