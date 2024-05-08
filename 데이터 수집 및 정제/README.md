@@ -8,10 +8,10 @@
   
 - ## Data: 
   - The program open a Chrome browser instance and navigating to a specific web page [www.hipflat.co.th](https://www.hipflat.co.th/en/search/sale/condo_y/TH.BM_r1/any_r2/any_p/any_b/any_a/any_w/100.6244261045141,13.77183154691727_c/12_z/list_v)
-<img width="586" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/b11f9832-ac17-4216-852a-070c43e05459">
+  <img width="586" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/b11f9832-ac17-4216-852a-070c43e05459">
  
   - The program used Selenium as a web crawling tool to collect data from www.hipflat.co.th  
-<img width="560" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/0a2c70b7-14df-408d-be94-5b14953168bd">
+  <img width="560" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/0a2c70b7-14df-408d-be94-5b14953168bd">
   - Additional features is shown as in red box below. 
   - Y = price per square 
 <img width="565" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/5d120bae-8a3d-4591-9922-f9bbedfc20d3"> 
