@@ -29,7 +29,7 @@
    
  	- LSTM
   		- Use python's keras to develop LSTM model
-    - Use python's numpy to perform mathematical operations (square root, mean, absolute value) to evaluate performance
+    	- Use python's numpy to perform mathematical operations (square root, mean, absolute value) to evaluate performance
 
 	
       <img width="455" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/a0db9d8b-5099-475b-8b89-4118201d5c11">
