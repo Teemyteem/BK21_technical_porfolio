@@ -12,8 +12,13 @@
  
   - The program used Selenium as a web scraping tool to scrape data from www.hipflat.co.th 
   <img width="560" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/0a2c70b7-14df-408d-be94-5b14953168bd">
-  
-  - All features are shown as below. 
+
+  - Data collection
+  ![image](https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/bc86ac90-dc7e-4c18-81c0-978aa844fea3)
+
+
+
+  - All feature columns are shown as below. 
   - Y = price per square 
   <img width="565" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/5d120bae-8a3d-4591-9922-f9bbedfc20d3">
 
