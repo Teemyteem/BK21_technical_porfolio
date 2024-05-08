@@ -15,12 +15,19 @@
   
   - All features are shown as below. 
   - Y = price per square 
-  <img width="565" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/5d120bae-8a3d-4591-9922-f9bbedfc20d3"> 
+  <img width="565" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/5d120bae-8a3d-4591-9922-f9bbedfc20d3">
 
+- Data preprocessing:
+ - Remove row in column "title" if it has null value 
+ - Remove row in column "Price_per_sqm" if it has 0 value  
+ - Replace null with 0 value 
+ - Convert object type to numerical type in column "Year_built","No_floor","Dist_bts","Dist_mrt"
+ - Do correlation heatmap 
 
 - Model:
   - Training: Testing = 80:20 
-  - Linear Regression, Regression Tree, Random Forest Regression, Gradient Boosting Regression  
+  - Develop and train Linear Regression, Regression Tree, Random Forest Regression, and Gradient Boosting Regression model
+  - Evaluate performance with accuracy score  
   
 - Result:  
   - For the existing variables, 'No_floor', 'Price_chg_from_lastyr', and 'Price_chg_prev_quart' are important variables.  
