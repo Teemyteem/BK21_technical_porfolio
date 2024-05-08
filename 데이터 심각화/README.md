@@ -16,4 +16,4 @@
 	- Gradient Boosting: accuracy = 0.929  
 	- Naive Bayes: accuracy = 0.872  
 	- K-NN: accuracy = 0.928  
-- Link: [Code](https://github.com/Teemyteem/BK21_technical_porfolio/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%AC%EA%B0%81%ED%99%94/22512087_Stroke.ipynb) [PPT slide]() 
+- Link: [Code](https://github.com/Teemyteem/BK21_technical_porfolio/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%AC%EA%B0%81%ED%99%94/22512087_Stroke.ipynb) [PPT slide](https://github.com/Teemyteem/BK21_technical_porfolio/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%AC%EA%B0%81%ED%99%94/22512087_Stroke.pdf) 
