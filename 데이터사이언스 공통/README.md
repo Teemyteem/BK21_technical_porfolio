@@ -35,7 +35,7 @@
    
  	- LSTM
   		- Use python's keras to develop LSTM model
-    		- Use 3-layer stacked LSTM
+    	- Use 3-layer stacked LSTM
     	- Use python's numpy to perform mathematical operations (square root, mean, absolute value) to evaluate performance with RMSE, MAPE
 
 	
