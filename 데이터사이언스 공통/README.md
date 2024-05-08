@@ -14,6 +14,7 @@
 	- AOT stock (AIRPORTS OF THAILAND PUBLIC COMPANY LIMITED)  
 	- LH stock (LAND AND HOUSES PUBLIC COMPANY LIMITED)
  	- CPALL, AOT = stable stock, LH = volatile stock
+
     	<img width="278" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/f57f3305-ebe1-4051-b25e-18bc9c1f6124">
 
   
