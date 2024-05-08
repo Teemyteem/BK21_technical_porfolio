@@ -1,5 +1,6 @@
 # Stroke
-- Objective: To predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status.  
+- Objective:
+	- To predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status.  
 - Data:   
 	- 11 attributes, 1 stroke class, 5110 records  
 	- Numerical variable (4): id, age, avg_glucose_level, bmi  
@@ -22,7 +23,8 @@
   - kde plot:
   - Bar plot:
   - Scatter plot:
-- Model: Decision Tree, Color Decision Tree, Logistic Regression, Random Forest, Gradient Boosting, Naive Bayes, K-NN  
+- Model:
+	- Decision Tree, Color Decision Tree, Logistic Regression, Random Forest, Gradient Boosting, Naive Bayes, K-NN  
 - Result:   
 	- Decision tree: accuracy = 0.917  
 	- Logistic regression: accuracy = 0.929  
