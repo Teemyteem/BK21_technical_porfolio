@@ -6,8 +6,15 @@
 	- Categorical variable (7): gender, hypertension, heart_disease, ever_married, work_type, Residence_type, smoking_status  
 	- Stroke class: 0 = No stroke, 1 = Stroke  
   <img width="684" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/fc64df28-1215-41c8-9265-bc9bc7798dc1">  
-- Preprocessing:
-  - Data visualization: histogram, box plot, kde plot, bar plot, and scatter plot.
+- ## Preprocessing:
+  - Data visualization: histogram, box plot, kde plot, bar plot, and scatter plot.	
+  - Histogram: showing the frequency of each variables (age, )	
+    <img width="634" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/496be019-500c-4f51-8d7a-403d9ff0830f">
+	
+  - Box plot:
+  - kde plot:
+  - Bar plot:
+  - Scatter plot:
 - Model: Decision Tree, Color Decision Tree, Logistic Regression, Random Forest, Gradient Boosting, Naive Bayes, K-NN  
 - Result:   
 	- Decision tree: accuracy = 0.917  
