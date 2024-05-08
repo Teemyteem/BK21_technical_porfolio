@@ -1,13 +1,16 @@
 ## Stock Price Prediction by Using Long Short-Term Memory Model With Multiple Look Back Periods  
-- Objective: Proposed a developed closing price prediction model by using three stocks from the Thai SET50 index (CPALL, AOT, LH).  
+- Objective:
+	- Proposed a developed closing price prediction model by using three stocks from the Thai SET50 index (CPALL, AOT, LH).  
 - Background:   
 	- The stock market has long been a favorite among investors.  
 	- To increase their profits, many investors would like to be able to anticipate stock prices, but this is challenging given the uncertain movement of stock prices.  
 - Data:   
-	- Collecting 2 date range data from the yfinance library  
+	- Collecting 2 date range data from the yfinance library (2001.01.01 to 2018.12.31, 2011.01.01 to 2018.12.31)
+ 	- Training : Testing = 80 : 20 	
 	- CPALL stock (CP ALL PUBLIC COMPANY LIMITED)   
 	- AOT stock (AIRPORTS OF THAILAND PUBLIC COMPANY LIMITED)  
-	- LH stock (LAND AND HOUSES PUBLIC COMPANY LIMITED)  
+	- LH stock (LAND AND HOUSES PUBLIC COMPANY LIMITED)
+ 	- CPALL, AOT = stable stock, LH = volatile stock
   
 - Model: CNN, LSTM  
 - Result:   
