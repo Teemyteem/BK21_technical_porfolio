@@ -18,7 +18,7 @@
 	- CNN
  		- Use python's keras to develop CNN model
 
-     <img width="509" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/181b1d4d-a2d7-47b3-9e3f-89878909b22b">	
+     	<img width="509" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/181b1d4d-a2d7-47b3-9e3f-89878909b22b">	
    
  	- LSTM
   		- Use python's keras to develop CNN model
