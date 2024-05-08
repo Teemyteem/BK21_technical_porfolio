@@ -2,18 +2,19 @@
 - Objective:
 	- To predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status.  
 - Data:   
-	- 11 attributes, 1 stroke class, 5110 records  
+	- 11 attributes (X), 1 stroke class (Y), 5110 records  
 	- Numerical variable (4): id, age, avg_glucose_level, bmi  
 	- Categorical variable (7): gender, hypertension, heart_disease, ever_married, work_type, Residence_type, smoking_status  
 	- Stroke class: 0 = No stroke, 1 = Stroke
  	- Data file: [stroke_data.csv](https://github.com/Teemyteem/BK21_technical_porfolio/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%AC%EA%B0%81%ED%99%94/stroke_data.csv)	 	
   <img width="684" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/fc64df28-1215-41c8-9265-bc9bc7798dc1">  
-- Preprocessing:	
+- Data Preprocessing:	
   - Remove 'ID' column	
   - Replace 'bmi' column with mean value = 28.9	
   - Remove 'Other' value in column 'gender'	
   - Remove 'Unknown' value in column 'smoking_status'	
-  - Convert categorical variable to numerical variable (column: 'ever_married', 'Residence_type', 'gender', 'work_type', 'smoking_status')	
+  - Convert categorical variable to numerical variable (column: 'ever_married', 'Residence_type', 'gender', 'work_type', 'smoking_status')
+
 - EDA (Exploratory Data Analysis)	
   ## Data visualization: histogram, box plot, kde plot, bar plot, and scatter plot.
   - Using python's matplotlib to visual the data		
@@ -40,6 +41,8 @@
     <img width="699" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/b737b2ba-09a8-47f7-a8d6-34e50c065b82">
 
 - Model:
+	- Classify training : Testing data = 80 : 20
+ 	- Do upsampling data of stroke value  
 	- Decision Tree, Color Decision Tree, Logistic Regression, Random Forest, Gradient Boosting, Naive Bayes, K-NN  
 - Result:   
 	- Decision tree: accuracy = 0.917  
