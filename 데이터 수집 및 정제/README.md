@@ -7,7 +7,7 @@
   - Apartment prices are one of the most important factors in buyers' decision-making
   
 - ## Data: 
-  - The program open a Chrome browser instance and navigating to a specific web page ([www.hipflat.co.th])(https://www.hipflat.co.th/en/search/sale/condo_y/TH.BM_r1/any_r2/any_p/any_b/any_a/any_w/100.6244261045141,13.77183154691727_c/12_z/list_v)
+  - The program open a Chrome browser instance and navigating to a specific web page [www.hipflat.co.th](https://www.hipflat.co.th/en/search/sale/condo_y/TH.BM_r1/any_r2/any_p/any_b/any_a/any_w/100.6244261045141,13.77183154691727_c/12_z/list_v)
   <img width="586" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/b11f9832-ac17-4216-852a-070c43e05459">
  
   - The program used Selenium as a web scraping tool to scrape data from www.hipflat.co.th 
