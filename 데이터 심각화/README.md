@@ -44,7 +44,8 @@
 - Model:
 	- Classify training : Testing data = 80 : 20
  	- Do upsampling data of stroke value  
-	- Decision Tree, Color Decision Tree, Logistic Regression, Random Forest, Gradient Boosting, Naive Bayes, K-NN  
+	- Develop and train Decision Tree, Color Decision Tree, Logistic Regression, Random Forest, Gradient Boosting, Naive Bayes, and K-NN model	
+ 	- Evaluate performance by accuracy score and classification report   
 - Result:   
 	- Decision tree: accuracy = 0.917  
 	- Logistic regression: accuracy = 0.929  
