@@ -8,9 +8,13 @@
   
 - ## Data: 
   - The program used Selenium as a web crawling tool to collect data from www.hipflat.co.th
+    
+  - The program used Selenium as a web crawling tool to collect data from www.hipflat.co.th
+<img width="560" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/0a2c70b7-14df-408d-be94-5b14953168bd">
   - Additional features is shown as in red box below.
   - Y = price per square
 <img width="565" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/5d120bae-8a3d-4591-9922-f9bbedfc20d3"> 
+
 
 - Model:
   - Linear Regression, Regression Tree, Random Forest Regression, Gradient Boosting Regression  
