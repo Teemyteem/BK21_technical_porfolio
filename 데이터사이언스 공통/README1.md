@@ -12,5 +12,6 @@
 - Model: CNN, LSTM  
 - Result:   
 	- In general, the results showed that LSTM outperformed CNN with high-performance  
-- Link: [PPT slide]()  
 - Code: [Code]() 
+- Link: [PPT slide]()  
+
