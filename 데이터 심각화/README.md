@@ -15,7 +15,7 @@
   - Remove 'Unknown' value in column 'smoking_status'	
   - Convert categorical variable to numerical variable (column: 'ever_married', 'Residence_type', 'gender', 'work_type', 'smoking_status')	
 - EDA (Exploratory Data Analysis)	
-  - ## Data visualization: histogram, box plot, kde plot, bar plot, and scatter plot.		
+  ## Data visualization: histogram, box plot, kde plot, bar plot, and scatter plot.		
   - Histogram: showing the frequency of each variables (age, )		
     <img width="634" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/496be019-500c-4f51-8d7a-403d9ff0830f">
 	
