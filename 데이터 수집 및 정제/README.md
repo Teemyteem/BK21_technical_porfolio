@@ -15,4 +15,4 @@
   - For the additional variables, 'Price_for_sale', and 'Price_for_rent' are important variables.  
   - Adding more characteristics gives you better performance.  
   - Random forest regression is the best forecasting model
-- Link: [Code](https://github.com/Teemyteem/BK21_technical_porfolio/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%EB%B0%8F%20%EC%A0%95%EC%A0%9C/Condo%20price%20per%20square%20meter%20prediction.ipynb) [PPT slide]()
+- Link: [Code](https://github.com/Teemyteem/BK21_technical_porfolio/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%EB%B0%8F%20%EC%A0%95%EC%A0%9C/Condo%20price%20per%20square%20meter%20prediction.ipynb) [PPT slide](https://github.com/Teemyteem/BK21_technical_porfolio/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%EB%B0%8F%20%EC%A0%95%EC%A0%9C/Predicting%20condominium%20price%20in%20Bangkok.pdf)
