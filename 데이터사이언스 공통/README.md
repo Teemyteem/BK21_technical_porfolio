@@ -8,10 +8,11 @@
 	- Collecting 2 date range data from the python's yfinance library (yahoo finance)
    	- (2001.01.01 to 2018.12.31, 2011.01.01 to 2018.12.31)	
    	  
-	<img width="350" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/14c71f0b-bd83-4785-92a7-e80cb1f69bad">
+	<img width="350" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/14c71f0b-bd83-4785-92a7-e80cb1f69bad">	
 
 
-  	<img width="278" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/f57f3305-ebe1-4051-b25e-18bc9c1f6124">	
+
+  <img width="278" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/f57f3305-ebe1-4051-b25e-18bc9c1f6124">	
      
   	- There are three Thai stocks data:
 		- CPALL stock (CP ALL PUBLIC COMPANY LIMITED)   
