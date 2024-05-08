@@ -6,7 +6,7 @@
 	- To increase their profits, many investors would like to be able to anticipate stock prices, but this is challenging given the uncertain movement of stock prices.  
 - Data:   
 	- Collecting 2 date range data from the python's yfinance library
-   	- (2001.01.01 to 2018.12.31, 2011.01.01 to 2018.12.31)
+   	- (2001.01.01 to 2018.12.31, 2011.01.01 to 2018.12.31)	
    	  
 	<img width="350" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/14c71f0b-bd83-4785-92a7-e80cb1f69bad">
 
