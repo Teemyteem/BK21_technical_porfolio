@@ -19,6 +19,7 @@
 
 
 - Model:
+  - Training: Testing = 80:20 
   - Linear Regression, Regression Tree, Random Forest Regression, Gradient Boosting Regression  
   
 - Result:  
