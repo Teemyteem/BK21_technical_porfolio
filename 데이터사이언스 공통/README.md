@@ -19,7 +19,7 @@
 		- AOT stock (AIRPORTS OF THAILAND PUBLIC COMPANY LIMITED)  
 		- LH stock (LAND AND HOUSES PUBLIC COMPANY LIMITED)	
   	- CPALL and AOT is stable stock, LH is volatile stock
-  	- Using only "close" column to be predicted		
+  	- Using only "Close" column to be predicted		
  	- Classify into training : testing data = 80 : 20
   	- Do the scaling data
   	- Apply look back (window size) in x_train, y_train data
