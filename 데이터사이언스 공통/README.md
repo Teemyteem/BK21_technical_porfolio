@@ -36,6 +36,8 @@
 
 	
      	<img width="509" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/181b1d4d-a2d7-47b3-9e3f-89878909b22b">	
+      	<img width="344" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/78e1ab53-2aee-480b-b083-ce86e3763bb4">
+
    
  	- LSTM
   		- Use python's keras to develop LSTM model
@@ -47,6 +49,8 @@
 
 	
       <img width="455" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/a0db9d8b-5099-475b-8b89-4118201d5c11">
+      <img width="344" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/1c2529ab-bd02-4253-850f-4a2a62a04f87">
+
  
 - Result:   
 	- In general, the results showed that LSTM outperformed CNN with high-performance.
