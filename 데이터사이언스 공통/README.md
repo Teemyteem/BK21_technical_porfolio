@@ -29,10 +29,10 @@
 	- CNN
  		- Use python's keras to develop CNN model
    		- Use 1D Convolutional Neural Network
-     		- Use multiple optimizer (adam, sgd, rmsprop) to compare performance
-       		- Use multiple epoch (10, 20, 30, 100, 200, 300) to compare performance	 
+     	- Use multiple optimizer (adam, sgd, rmsprop) to compare performance
+       - Use multiple epoch (10, 20, 30, 100, 200, 300) to compare performance	 
    		- Use python's numpy to perform mathematical operations (square root, mean, absolute value) to evaluate performance with RMSE, MAPE
-     		- Use python's matplotlib to plot graph of prediction data 
+     	- Use python's matplotlib to plot graph of prediction data 
 
 	
      	<img width="509" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/181b1d4d-a2d7-47b3-9e3f-89878909b22b">	
@@ -40,10 +40,10 @@
  	- LSTM
   		- Use python's keras to develop LSTM model
     	- Use 3-layer stacked LSTM
-       		- Use multiple optimizer (adam, sgd, rmsprop) to compare performance
-       		- Use multiple epoch (1, 10, 20, 30) to compare performance	
+       	- Use multiple optimizer (adam, sgd, rmsprop) to compare performance
+      	- Use multiple epoch (1, 10, 20, 30) to compare performance	
     	- Use python's numpy to perform mathematical operations (square root, mean, absolute value) to evaluate performance with RMSE, MAPE
-     - Use python's matplotlib to plot graph of prediction data 
+     	- Use python's matplotlib to plot graph of prediction data 
 
 	
       <img width="455" alt="image" src="https://github.com/Teemyteem/BK21_technical_porfolio/assets/129394136/a0db9d8b-5099-475b-8b89-4118201d5c11">
