@@ -6,7 +6,7 @@ Name : 야오와말 (Yaowamal Luetrakulset)
 Email : yaowamal.lue@gmail.com   
 소속 : 서울과학기술대학교 일반대학원 데이터사이언스학과  
 지도교수 : 윤양인  
-학위논문 : 장단기 기억 신경망 (LSTM)을 통한 산불 향상 예측   
+학위논문 : 장단기 기억 신경망 (LSTM)을 통한 산불 양상 예측   
           [Enhancing Wildfire Behavior Prediction With Long Short-Term Memory](https://github.com/Teemyteem/BK21_technical_porfolio/blob/main/Enhancing%20Wildfire%20Behavior%20Prediction%20With%20Long%20Short-Term%20Memory.pdf)
 
 
